@@ -1,10 +1,10 @@
-CRUD Task manager
+# CRUD Task manager
 This repository contains a CRUD project using Java Spring. The focus is to implement a simple task manager.
 
-Usage
+# Usage
 The API REST is available on the link http://localhost:8080
 
-API Endpoints
+# API Endpoints
 The API have the following endpoints:
 
 POST /tasks - Post a new task.
@@ -16,5 +16,5 @@ PUT /tasks/{id} - Updates a task.
 
 DELETE /tasks/{id} - Delete a task.
 
-Database
+# Database
 This project uses the MySQL database.
