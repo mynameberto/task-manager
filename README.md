@@ -10,6 +10,7 @@ The API have the following endpoints:
 POST /tasks - Post a new task.
 
 GET /tasks/{id} - Return the task for the given id.
+
 GET /tasks - Return the list of all the tasks.
 
 PUT /tasks/{id} - Updates a task.
